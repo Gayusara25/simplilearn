@@ -11,7 +11,7 @@ namespace _19aug
         static void Main(string[] args)
         {
 
-            Console.WriteLine("create a branch and push");
+            Console.WriteLine("create  a branch and push");
             Console.ReadLine();
         }
     }
